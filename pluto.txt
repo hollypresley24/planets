@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 The dwarf planet
+=======
+dwarf planet
+
+>>>>>>> 5b52826b237b11cea5a9722ab7e916c99c939a4d
